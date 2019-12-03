@@ -1,0 +1,9 @@
+"consentDialog.personalized.title" = "Personnalisez votre expérience";
+"consentDialog.personalized.acceptButton" = "Oui, J'accepte";
+"consentDialog.personalized.rejectButton" = "Non, Merci";
+"consentDialog.personalized.messageHtml" = "<p align=\"justify\">Gr&acirc;ce &agrave;&nbsp;notre application, vous pouvez personnaliser votre exp&eacute;rience publicitaire via Google et&nbsp;d&rsquo;autres partenaires. En&nbsp;acceptant cette offre, vous verrez des annonces qui vous seront plus utiles avec le&nbsp;contenu pertinent sur vos appareils. En&nbsp;fonction de&nbsp;vos param&egrave;tres de&nbsp;confidentialit&eacute;, nos partenaires peuvent rassembler et&nbsp;traiter des donn&eacute;es sur vos appareils. <a href=\"%@\">Pour en&nbsp;savoir plus</a></p><p align=\"justify\">En&nbsp;acceptant, vous confirmez que vous avez plus de&nbsp;16&nbsp;ans et&nbsp;que vous souhaitez choisir une exp&eacute;rience personnalis&eacute;e.</p>";
+
+"consentDialog.nonPersonalized.title" = "Aucun souci, nous avons des annonces non personnalisées";
+"consentDialog.nonPersonalized.acceptButton" = "Oui, J'accepte";
+"consentDialog.nonPersonalized.rejectButton" = "Non, merci. Je préfère payer";
+"consentDialog.nonPersonalized.messageHtml" = "<p align=\"justify\">Afin de&nbsp;pouvoir vous offrir une application gratuite et&nbsp;fonctionnelle, vous verrez des annonces, mais elles peuvent ne&nbsp;pas correspondre &agrave;&nbsp;vos int&eacute;r&ecirc;ts. Aucun profil en&nbsp;ligne ne&nbsp;sera cr&eacute;&eacute;.</p><p align=\"justify\">En&nbsp;acceptant, vous confirmez que vous &ecirc;tes &acirc;g&eacute; de&nbsp;plus de&nbsp;16&nbsp;ans et&nbsp;que vous acceptez les param&egrave;tres &laquo;annonces non personnelles&raquo;.</p>";

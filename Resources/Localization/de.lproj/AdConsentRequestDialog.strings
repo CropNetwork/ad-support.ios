@@ -1,0 +1,9 @@
+"consentDialog.personalized.title" = "Personalisieren Sie Ihr Erlebnis";
+"consentDialog.personalized.acceptButton" = "Ja, ich stimme zu";
+"consentDialog.personalized.rejectButton" = "Nein, danke";
+"consentDialog.personalized.messageHtml" = "<p align=\"justify\">Mit unserer App k&ouml;nnen Sie Ihre Werbeerfahrung &uuml;ber Google und andere Partner personalisieren. Wenn Sie diesem Angebot zustimmen, sehen Sie f&uuml;r Sie n&uuml;tzlichere Anzeigen mit den relevanten Inhalten auf Ihren Ger&auml;ten. Abh&auml;ngig von Ihren Datenschutzeinstellungen k&ouml;nnen unsere Partner Daten &uuml;ber Ihre Ger&auml;te erfassen und verarbeiten. <a href=\"%@\">Erfahren Sie mehr</a></p><p align=\"justify\">Mit Ihrer Zustimmung best&auml;tigen Sie, dass Sie &uuml;ber 16&nbsp;Jahre alt sind und sich f&uuml;r ein personalisiertes Erlebnis entscheiden m&ouml;chten.</p>";
+
+"consentDialog.nonPersonalized.title" = "Kein Problem, wir haben nicht-personalisierte Anzeigen";
+"consentDialog.nonPersonalized.acceptButton" = "Ja, ich stimme zu";
+"consentDialog.nonPersonalized.rejectButton" = "Nein, danke. Ich würde lieber bezahlen";
+"consentDialog.nonPersonalized.messageHtml" = "<p align=\"justify\">Um&nbsp;Ihnen eine kostenlose und funktionale App anbieten zu&nbsp;k&ouml;nnen, werden Sie Anzeigen sehen, diese sind aber m&ouml;glicherweise nicht relevant f&uuml;r Sie. Es&nbsp;wird kein Online-Profil erstellt.</p><p align=\"justify\">Mit Ihrer Zustimmung best&auml;tigen Sie, dass Sie &uuml;ber 16&nbsp;Jahre alt sind und die Einstellungen f&uuml;r &laquo;nicht-personenbezogene Anzeigen&raquo; akzeptieren.</p>";
